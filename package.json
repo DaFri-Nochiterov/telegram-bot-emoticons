@@ -1,0 +1,14 @@
+{
+  "name": "emotimsgbot",
+  "version": "0.0.1",
+  "description": "Bot with emoticons for Telegram",
+  "main": "main.js",
+  "scripts": { 
+    "start": "node main.js"
+  },
+  "author": "dafri_nochiterov",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.19.0"
+  }
+}
